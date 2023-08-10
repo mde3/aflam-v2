@@ -9,7 +9,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/mde3/aflam-v2?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/mde3/aflam-v2?style=social)
 
-  <a href="https://aflam.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://aflaam.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
